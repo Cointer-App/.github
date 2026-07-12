@@ -12,7 +12,7 @@
 
 ## Overview
 
-Add the Bitcoin or Ethereum addresses you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification. No accounts, no passwords. Just a single personal key that ties everything together.
+Add the wallet address you want to watch. Cointer checks the blockchain for you. When a watched address gets a deposit, you get a notification. No accounts, no passwords. Just a single personal key that ties everything together.
 
 You can pick how you want to be notified: push alerts, ntfy, Discord, Slack, or email.
 
