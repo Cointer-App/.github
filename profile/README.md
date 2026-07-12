@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.svg" width="80" height="80" alt="Cointer Logo" />
+<img src="/logo.svg" width="80" height="80" alt="Cointer Logo" />
 
 <h1>Cointer</h1>
 
