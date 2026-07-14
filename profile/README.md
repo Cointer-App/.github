@@ -18,6 +18,10 @@ You can pick how you want to be notified: push alerts, ntfy, Discord, Slack, or 
 
 <br />
 
+## Donate
+
+Cointer is free, with no ads or paid tier. Donations pay for the servers, and the more that comes in, the more chains we can support. Addresses and QR codes are at [cointer.app/donate](https://cointer.app/donate).
+
 ## Our Repos
 
 <table>
