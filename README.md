@@ -13,3 +13,7 @@
 ## Overview
 
 This repo holds shared files used across all Cointer repos, like issue templates and workflows.
+
+## Donate
+
+Cointer is free, with no ads or paid tier. Donations pay for the servers, and the more that comes in, the more chains we can support. Addresses and QR codes are at [cointer.app/donate](https://cointer.app/donate).
